@@ -18,7 +18,7 @@ require "pry"
 
 def snake_it_up(string)
   if string[0] == "s"
-      return "ssssssssss#{string}""
+      return "ssssssssss#{string}"
   else
     return "this did not work"
     # p "#{string}"
