@@ -13,4 +13,4 @@ def snake_it_up(string)
   end
 end
 
-snake_it_up(string)
+snake_it_up(snake)
