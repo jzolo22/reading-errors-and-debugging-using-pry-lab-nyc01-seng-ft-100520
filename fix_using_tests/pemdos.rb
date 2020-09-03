@@ -23,7 +23,8 @@ def snake_it_up(string)
     end
       return string
   else
-     p "#{string}"
+    return "this did not work"
+    # p "#{string}"
    end
 end
 
