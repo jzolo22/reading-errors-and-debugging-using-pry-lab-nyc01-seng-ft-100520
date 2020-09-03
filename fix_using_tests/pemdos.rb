@@ -6,9 +6,9 @@ def snake_it_up(string)
     10.times do
       print "s"
     end
-    puts "#{string}""
+    puts "#{string}"
    else
-    string
+     string
   end
 end
 
