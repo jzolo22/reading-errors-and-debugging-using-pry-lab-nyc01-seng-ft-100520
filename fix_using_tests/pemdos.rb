@@ -8,7 +8,7 @@ def snake_it_up(string)
     end
     puts "#{string}"
    else
-     puts "#{string}""
+     puts "#{string}"
    end
 end
 
