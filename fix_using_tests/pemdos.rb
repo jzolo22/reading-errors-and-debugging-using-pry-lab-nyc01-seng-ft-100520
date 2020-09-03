@@ -9,6 +9,8 @@ def snake_it_up(string)
     puts "#{string}"
    else
      puts "#{string}"
+     binding.pry
    end
 end
 
+snake_it_up("surprise!")
