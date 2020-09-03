@@ -15,3 +15,16 @@ def snake_it_up(string)
 end
 
 snake_it_up("surprise!")
+
+def snake_it_up(string)
+  if string[0] == "s"
+    10.times do
+      print s
+    end
+      print string
+  else
+     p "#{string}"
+   end
+end
+
+snake_it_up("surprise!")
