@@ -6,10 +6,9 @@ def snake_it_up(string)
     10.times do
       print "s"
     end
-    puts "#{string}"
+    string
    else
      puts "#{string}"
-     binding.pry
    end
 end
 
